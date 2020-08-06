@@ -1,0 +1,7 @@
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe.config
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\bin\Debug\PartialDemo.exe
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\bin\Debug\PartialDemo.pdb
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csproj.CoreCompileInputs.cache
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\obj\Debug\PartialDemo.exe
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\obj\Debug\PartialDemo.pdb
+D:\dotnettraining\dotnetconsoleapp\PartialDemo\PartialDemo\PartialDemo\obj\Debug\PartialDemo.csprojAssemblyReference.cache
